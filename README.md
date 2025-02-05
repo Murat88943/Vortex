@@ -1,4 +1,4 @@
-Simple HTTP API Framework
+Vortex
 
 Это простой фреймворк на Python для создания HTTP-серверов и RESTful API. Он поддерживает основные HTTP методы (GET, POST, PUT, DELETE, PATCH), обработку ошибок, рендеринг шаблонов, а также поддержку CORS-заголовков.
 Особенности
