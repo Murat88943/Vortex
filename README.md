@@ -16,9 +16,6 @@ Simple HTTP API Framework
 
     Клонируйте этот репозиторий:
 
-git clone https://github.com/yourusername/simple-http-api-framework.git
-cd simple-http-api-framework
-
 Установите зависимости (если есть):
 
     pip install -r requirements.txt
